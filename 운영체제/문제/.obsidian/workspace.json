@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "059d5947ae18afb6",
+    "id": "395398fb8df800ba",
     "type": "split",
     "children": [
       {
-        "id": "786742a1ff0669b0",
+        "id": "1bbe07e6c6552c07",
         "type": "tabs",
         "children": [
           {
-            "id": "4695cf540fe3f639",
+            "id": "2e5d193706e2aef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/가상함수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76b65a93af18de94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "운영체제/프로세스 개요.md",
+                "file": "1 주차 문제.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2014956f052f3d55",
+    "id": "98c4cbb14e3d01d1",
     "type": "split",
     "children": [
       {
-        "id": "7abe7c26f2d4344d",
+        "id": "13e9b3b5185560a0",
         "type": "tabs",
         "children": [
           {
-            "id": "9d326d9d976d5569",
+            "id": "9de3ef983deb3845",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "ca2b510cbf1a11aa",
+            "id": "008de6b146c7f6af",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "6c63b0611c62ef6c",
+            "id": "621f46b8ced759a8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "f57fa2cc7395a88c",
+    "id": "9e8a34895e81d3f7",
     "type": "split",
     "children": [
       {
-        "id": "aef16715e19bb8f0",
+        "id": "0abed0f721e19079",
         "type": "tabs",
         "children": [
           {
-            "id": "d655e23716771167",
+            "id": "0511869b58cc8cbf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/가상함수.md",
+                "file": "1 주차 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +97,19 @@
             }
           },
           {
-            "id": "69bd02c8593ab864",
+            "id": "7f6dd8a8c8261eb6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/가상함수.md",
+                "file": "1 주차 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "49b225b45f1252f5",
+            "id": "7eeb3dbdb20ad070",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +120,12 @@
             }
           },
           {
-            "id": "d7b25e1b3d44e07f",
+            "id": "4000962f16e631cb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/가상함수.md"
+                "file": "1 주차 문제.md"
               }
             }
           }
@@ -145,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,35 +146,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4695cf540fe3f639",
-  "lastOpenFiles": [
-    "운영체제/프로세스 개요.md",
-    "운영체제/프로세스 상태와 계층 구조.md",
-    "운영체제/프로세스.md",
-    "운영체제/운영체제의 큰 그림.md",
-    "운영체제/운영체제를 알아야 하는 이유.md",
-    "운영체제/운영체제 개요.md",
-    "운영체제/운영체제.md",
-    "운영체제/문제.md",
-    "운영체제/문제/1 주차 문제.md",
-    "C++/가상함수.md",
-    "2023-09-18.md",
-    "C++",
-    "무제 파일.canvas",
-    "운영체제/문제",
-    "운영체제/attachments/Pasted image 20230918004759.png",
-    "운영체제/attachments/Pasted image 20230918004727.png",
-    "운영체제/attachments/Pasted image 20230918004308.png",
-    "운영체제/attachments",
-    "2023-09-17.md",
-    "무제 파일.md",
-    "운영체제",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "시스템 호출(system call) 직접 관찰하기.md",
-    "Unasdfasftled.md",
-    "2023-09-16.md",
-    "sample.md",
-    "Hello Obsidian!.md"
-  ]
+  "active": "2e5d193706e2aef3",
+  "lastOpenFiles": []
 }
