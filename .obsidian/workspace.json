@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수학/PBR.md",
+                "file": "C++/move & forward.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수학/PBR.md",
+                "file": "C++/move & forward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수학/PBR.md",
+                "file": "C++/move & forward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수학/PBR.md"
+                "file": "C++/move & forward.md"
               }
             }
           }
@@ -157,14 +157,14 @@
   },
   "active": "76b65a93af18de94",
   "lastOpenFiles": [
+    "C++/C++.md",
+    "C++/move & forward.md",
+    "수학/PBR.md",
     "운영체제/운영체제의 큰 그림.md",
     "운영체제/운영체제 개요.md",
     "운영체제/attachments/Pasted image 20230918004308.png",
-    "C++/std move.md",
     "C++/가상함수.md",
-    "수학/PBR.md",
     "수학",
-    "C++/C++.md",
     "운영체제/프로세스 개요.md",
     "운영체제/프로세스 상태와 계층 구조.md",
     "운영체제/프로세스.md",
