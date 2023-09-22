@@ -42,7 +42,11 @@ int main() {
 이 예시에서 `wrapper` 함수는 `std::forward`를 사용하여 `arg`의 원래 레퍼런스 타입을 보존하고, `f` 함수에 전달합니다. 이로써 `print_int` 함수는 올바른 오버로드를 호출할 수 있습니다.
 
 #### std::forward 의 필요성
-`std::forward`를 사용하지 않으면, rvalue가 lvalue로 취급되거나, lvalue가 불필요하게 복사될 수 있습니다. 이로 인해 성능 저하나 의도치 않은 동작이 발생할 수 있습니다.
+`std::forward`를 사용하지 않으면, rvalue가 lvalue로 취급되거나, lvalue가 불필요하게 복사될 수 있습니다. 이로 인해 성능 저하나 의도치 않은 동작이 발생할 수 있습니다. `std::forward`의 적절한 사용 시점을 알고 있으면 코드의 안정성과 효율성을 높일 수 있습니다. 주로 다음과 같은 상황에서 사용합니다:
+
+1. Forwarding Reference: 함수 매개변수가 `T&&` 형태일 때
+2. Perfect Forwarding: 인자를 다른 함수로 전달할 때 원래의 타입과 값을 유지해야 할 때
+3. Template Functions: 템플릿 함수 내에서 다른 함수를 호출하고, 인자의 타입을 그대로 유지해야 할 때
 
 ##### 예시 1: rvalue가 lvalue로 취급되는 경우
 ```cpp

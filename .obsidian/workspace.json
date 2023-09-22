@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01cd3185eace4fbc",
+        "id": "c1dbb896cb9f8795",
         "type": "tabs",
         "children": [
           {
-            "id": "c1bd025fe6c63dcf",
+            "id": "510474d711b13218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/move & forward.md",
+                "file": "운영체제/CPU 스케줄링.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/move & forward.md",
+                "file": "운영체제/CPU 스케줄링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/move & forward.md",
+                "file": "운영체제/CPU 스케줄링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/move & forward.md"
+                "file": "운영체제/CPU 스케줄링.md"
               }
             }
           }
@@ -146,29 +146,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c1bd025fe6c63dcf",
+  "active": "510474d711b13218",
   "lastOpenFiles": [
-    "C++/C++.md",
-    "C++/move & forward.md",
-    "C++/가상함수.md",
-    "수학/PBR.md",
-    "수학",
-    "운영체제/프로세스 개요.md",
-    "운영체제/프로세스 상태와 계층 구조.md",
-    "운영체제/프로세스.md",
-    "운영체제/attachments/Pasted image 20230918004308.png",
-    "운영체제/문제.md",
-    "conflict-files-obsidian-git.md",
-    "운영체제/운영체제의 큰 그림.md",
-    "운영체제/운영체제를 알아야 하는 이유.md",
-    "운영체제/운영체제 개요.md",
     "운영체제/운영체제.md",
+    "운영체제/운영체제를 알아야 하는 이유.md",
+    "운영체제/운영체제의 큰 그림.md",
+    "운영체제/프로세스.md",
+    "운영체제/CPU 스케줄링.md",
+    "운영체제/attachments/Pasted image 20230922191702.png",
+    "운영체제/문제.md",
+    "운영체제/스레드.md",
+    "운영체제/프로세스 상태와 계층 구조.md",
+    "운영체제/프로세스 개요.md",
     "운영체제/문제/1 주차 문제.md",
+    "운영체제/문제/2 주차 문제.md",
+    "운영체제/attachments/Pasted image 20230922114632.png",
+    "운영체제/attachments/Pasted image 20230918004759.png",
+    "운영체제/attachments/Pasted image 20230918004308.png",
+    "운영체제/운영체제 개요.md",
+    "C++/move & forward.md",
+    "수학/PBR.md",
+    "수학/무제 폴더",
+    "C++/C++.md",
+    "C++/가상함수.md",
+    "수학",
+    "conflict-files-obsidian-git.md",
     "2023-09-18.md",
     "C++",
     "무제 파일.canvas",
     "운영체제/문제",
-    "운영체제/attachments/Pasted image 20230918004759.png",
     "운영체제/attachments/Pasted image 20230918004727.png",
     "운영체제/attachments",
     "2023-09-17.md",
