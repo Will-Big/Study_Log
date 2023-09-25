@@ -23,7 +23,16 @@
         "Mod",
         "Shift"
       ],
-      "key": "C"
+      "key": "P"
+    }
+  ],
+  "obsidian-git:discard-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영체제/CPU 스케줄링.md",
+                "file": "운영체제/운영체제.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영체제/CPU 스케줄링.md",
+                "file": "운영체제/운영체제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영체제/CPU 스케줄링.md",
+                "file": "운영체제/운영체제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영체제/CPU 스케줄링.md"
+                "file": "운영체제/운영체제.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "510474d711b13218",
   "lastOpenFiles": [
+    "운영체제/프로세스 상태와 계층 구조.md",
+    "운영체제/CPU 스케줄링.md",
     "운영체제/운영체제.md",
+    "운영체제/프로세스 개요.md",
+    "운영체제/프로세스.md",
     "운영체제/운영체제를 알아야 하는 이유.md",
     "운영체제/운영체제의 큰 그림.md",
-    "운영체제/프로세스.md",
-    "운영체제/CPU 스케줄링.md",
     "운영체제/attachments/Pasted image 20230922191702.png",
     "운영체제/문제.md",
     "운영체제/스레드.md",
-    "운영체제/프로세스 상태와 계층 구조.md",
-    "운영체제/프로세스 개요.md",
     "운영체제/문제/1 주차 문제.md",
     "운영체제/문제/2 주차 문제.md",
     "운영체제/attachments/Pasted image 20230922114632.png",
