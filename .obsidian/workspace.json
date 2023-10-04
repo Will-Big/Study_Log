@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터 구조/컴퓨터 구조.md",
+                "file": "컴퓨터 구조/컴퓨터 구조의 큰 그림.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터 구조/컴퓨터 구조.md",
+                "file": "컴퓨터 구조/컴퓨터 구조의 큰 그림.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터 구조/컴퓨터 구조.md",
+                "file": "컴퓨터 구조/컴퓨터 구조의 큰 그림.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터 구조/컴퓨터 구조.md"
+                "file": "컴퓨터 구조/컴퓨터 구조의 큰 그림.md"
               }
             }
           }
@@ -161,11 +161,14 @@
   },
   "active": "f8f4483a986b7bcc",
   "lastOpenFiles": [
-    "컴퓨터 구조/명령어의 구조와 주소 지정 방식.md",
     "컴퓨터 구조/소스 코드와 명령어.md",
+    "컴퓨터 구조/명령어의 구조와 주소 지정 방식.md",
+    "C++/decltype.md",
+    "C++/C++.md",
+    "C++/스마트 포인터.md",
+    "C++/move & forward.md",
     "컴퓨터 구조/컴퓨터 구조.md",
     "컴퓨터 구조/컴퓨터 구조의 큰 그림.md",
-    "C++/스마트 포인터.md",
     "컴퓨터 구조/attachments/Pasted image 20231004160911.png",
     "컴퓨터 구조/attachments/Pasted image 20231004160839.png",
     "컴퓨터 구조/0과 1로 숫자를 표현하는 방법.md",
@@ -180,9 +183,7 @@
     "운영체제/운영체제.md",
     "운영체제/운영체제의 큰 그림.md",
     "운영체제/프로세스.md",
-    "C++/C++.md",
     "컴퓨터 구조",
-    "C++/move & forward.md",
     "운영체제/CPU 스케줄링.md",
     "운영체제/운영체제를 알아야 하는 이유.md",
     "운영체제/스레드.md",
